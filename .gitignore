@@ -4,3 +4,5 @@ tags
 .deps/*
 meta/
 *.swp
+*.lib
+lock.json
